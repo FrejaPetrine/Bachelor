@@ -109,7 +109,7 @@ numPeriods = len(t)
 # Position of bars on x-axis
 pos = np.arange(numPeriods)
 
-
+#Nu har vi lavet et plot
 plt.figure(1)
     # For each product, plot the production plan
 for k in produkt:
